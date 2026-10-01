@@ -1,7 +1,6 @@
 # 👋 Hi, I'm G Harshith
 
 🚀 Aspiring **DevOps Engineer** passionate about building scalable and automated systems.
-
 ---
 
 ## 💼 About Me
